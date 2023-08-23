@@ -4,5 +4,6 @@
   一个python库的tar.gz文件，位于yoloall目录下，要求使用者的电脑里已经有了相关模型，使用时需导入模型路径；
   YOLO系列的模型和pycharm的环境配置，没敢动，所以导致文件看起来很大，实际上一大半都是pycharm的虚拟环境；
   一个小型dataset；
-  nanodet的Linux版本，Windows版本那个没找到，比较遗憾。\n
+  nanodet的Linux版本，Windows版本那个没找到，比较遗憾。
+	由于华科的校园网VPN突然之间坏了，我只能上传几个小的核心文件，就是前两者。数据集的链接我放在这里https://universe.roboflow.com/tennistracker-dogbm/tennis-court-detection/dataset/9
   作者：赖永烨
